@@ -1,0 +1,13 @@
+set prodir=/home/naba/softwares/procheck
+export prodir=/home/naba/softwares/procheck
+alias procheck=$prodir'/procheck.scr'
+alias procheck_comp=$prodir'/procheck_comp.scr'
+alias procheck_nmr=$prodir'/procheck_nmr.scr'
+alias proplot=$prodir'/proplot.scr'
+alias proplot_comp=$prodir'/proplot_comp.scr'
+alias proplot_nmr=$prodir'/proplot_nmr.scr'
+alias aquapro=$prodir'/aquapro.scr'
+alias gfac2pdb=$prodir'/gfac2pdb.scr'
+alias viol2pdb=$prodir'/viol2pdb.scr'
+alias wirplot=$prodir'/wirplot.scr'
+export PATH=$PATH:/home/naba/softwares/procheck
